@@ -17,7 +17,6 @@
 <img width="250" alt="coffee" src="https://user-images.githubusercontent.com/99875657/183104451-1aacf807-8f72-495f-8c51-ede9380b2c21.png">
 <img width="242" alt="drink2" src="https://user-images.githubusercontent.com/99875657/183104459-df57825e-4eae-4f37-bece-0c6792bb2c8b.png">
 <img width="260" alt="lassie" src="https://user-images.githubusercontent.com/99875657/183104477-da19cac4-d7a5-44a4-9100-254c5c63520e.png">
-<img width="244" alt="mj" src="https://user-images.gi<img width="217" alt="tea" src="https://user-images.githubusercontent.com/99875657/183104497-7d7a546a-b8dd-40b8-a9c4-5915d8ff943b.png">
-
 <img width="250" alt="pepsi" src="https://user-images.githubusercontent.com/99875657/183104508-1d1c2fa5-f14b-4a46-8278-1eb05cafa86b.png">
-<img width="244" alt="mj" src="https://user-images.githubusercontent.com/99875657/183104600-3ac3987a-7834-45d4-b116-a0a5e3e49274.png">
+
+<img width="244" alt="mj" src="https://user-images.githubusercontent.com/99875657/183104869-6de8c8eb-1f05-4ce1-a7d9-61044a5b489b.png">
