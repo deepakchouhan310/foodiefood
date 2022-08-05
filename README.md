@@ -33,6 +33,18 @@
 <img width="258" alt="utapam" src="https://user-images.githubusercontent.com/99875657/183114542-ed834ef3-1f62-442d-9a80-2ac8784d4343.png">
 
 
+
+
+![butchik](https://user-images.githubusercontent.com/99875657/183135072-e8999da8-9061-4547-8566-50f2567b041b.png)
+![chickgra](https://user-images.githubusercontent.com/99875657/183135093-d19351a7-22a9-4bf3-84f0-d914d6a70bab.png)
+
+![chickgra](https://user-images.githubusercontent.com/99875657/183135380-a539d734-191d-4148-a2bf-9268fdd45649.png)
+
+
+
+
+
+
 <h1>Veg</h1>
 
 ![dalfry](https://user-images.githubusercontent.com/99875657/183126321-8248d056-23d8-4e75-adee-496b516ce8cb.png)
@@ -48,11 +60,16 @@
 ![hnood](https://user-images.githubusercontent.com/99875657/183126279-b4aaee81-bc24-4e6c-9513-ee326771f63b.png)
 ![friedrice](https://user-images.githubusercontent.com/99875657/183126292-ca43eafa-18cc-4961-b881-51ae1e95e6e1.png)
 
-
-
-
-
-
+<h2> non veg</h2>
+![butchik](https://user-images.githubusercontent.com/99875657/183135360-0cf39e6f-4739-4219-8cb2-f072492d39d9.png)
+![cfr](https://user-images.githubusercontent.com/99875657/183135369-c45b7aa4-77f1-4c03-9bc6-1074fc309d4b.png)
+![chickgra](https://user-images.githubusercontent.com/99875657/183135469-1547b9e8-c8c6-4d10-a545-7a19de7be2bf.png)
+![chicsand](https://user-images.githubusercontent.com/99875657/183135254-5a38312e-9158-4396-a6e5-c7b0527174d9.png)
+![chihandi](https://user-images.githubusercontent.com/99875657/183135264-2450a73a-f41b-4533-ae7c-31a291a2135d.png)
+![chisoup](https://user-images.githubusercontent.com/99875657/183135273-aa8f2fdf-fffb-47a6-bce6-27413bbd4c7d.png)
+![chn](https://user-images.githubusercontent.com/99875657/183135293-200ca3fc-7e1f-4437-8b4a-b560369f5a4d.png)
+![eggcurry](https://user-images.githubusercontent.com/99875657/183135444-d92a5f26-2e95-40a0-98d0-8cafd3d16b4e.png)
+![nonb](https://user-images.githubusercontent.com/99875657/183135512-a8988c43-ebda-4296-8156-2b90db028050.png)
 
 
 
