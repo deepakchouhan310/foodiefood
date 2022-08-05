@@ -22,3 +22,12 @@
 <img width="250" alt="pepsi" src="https://user-images.githubusercontent.com/99875657/183104508-1d1c2fa5-f14b-4a46-8278-1eb05cafa86b.png">
 
 <img width="244" alt="mj" src="https://user-images.githubusercontent.com/99875657/183104869-6de8c8eb-1f05-4ce1-a7d9-61044a5b489b.png">
+
+
+<h1>South indian</h1>
+<img width="245" alt="sd" src="https://user-images.githubusercontent.com/99875657/183114394-789ee049-6472-4879-963e-18b35b159613.png">
+<img width="298" alt="md" src="https://user-images.githubusercontent.com/99875657/183114427-1ffea3fc-0551-4091-8694-ca6b69fa5fd6.png">
+<img width="250" alt="idle" src="https://user-images.githubusercontent.com/99875657/183114481-d0930106-2d5b-411d-9d95-9e3ad938c427.png">
+<img width="254" alt="cmd" src="https://user-images.githubusercontent.com/99875657/183114500-d3ea7d59-2977-437a-9df6-f0c7e4115a92.png">
+<img width="276" alt="mendu" src="https://user-images.githubusercontent.com/99875657/183114514-bca60718-52e8-42eb-8c99-80af623e1a2d.png">
+<img width="258" alt="utapam" src="https://user-images.githubusercontent.com/99875657/183114542-ed834ef3-1f62-442d-9a80-2ac8784d4343.png">
