@@ -74,8 +74,8 @@
 
 
 
+<h2>Yatera</h2>
 
-Yatera
 ![p-1](https://user-images.githubusercontent.com/99875657/185546236-de5d9782-08f8-43da-8cba-d291f7877f9a.jpg)
 
 
@@ -93,4 +93,5 @@ Yatera
 
 ![tajmahel](https://user-images.githubusercontent.com/99875657/185546365-81775fca-1dfd-4b49-bc79-6fdf57e268a4.jpg)
 
+![shimla](https://user-images.githubusercontent.com/99875657/185547045-a7cfdf0f-ef68-4eed-a65e-4deb5dd6ef2d.png)
 
