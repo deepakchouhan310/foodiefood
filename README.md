@@ -35,6 +35,7 @@
 
 
 
+
 ![butchik](https://user-images.githubusercontent.com/99875657/183135072-e8999da8-9061-4547-8566-50f2567b041b.png)
 ![chickgra](https://user-images.githubusercontent.com/99875657/183135093-d19351a7-22a9-4bf3-84f0-d914d6a70bab.png)
 
@@ -72,5 +73,24 @@
 ![nonb](https://user-images.githubusercontent.com/99875657/183135512-a8988c43-ebda-4296-8156-2b90db028050.png)
 
 
+
+
+Yatera
+![p-1](https://user-images.githubusercontent.com/99875657/185546236-de5d9782-08f8-43da-8cba-d291f7877f9a.jpg)
+
+
+![kedarnath](https://user-images.githubusercontent.com/99875657/185546296-6db518bc-0b31-472a-b51e-a8b0256b43ab.jpg)
+
+
+
+![goa](https://user-images.githubusercontent.com/99875657/185546321-ba78cd30-d0c8-4137-924b-b11172865143.jpg)
+
+![ladakh](https://user-images.githubusercontent.com/99875657/185546339-c124ca52-4b41-47f8-a39d-63a49f9d8902.jpg)
+
+
+![manali](https://user-images.githubusercontent.com/99875657/185546352-7693cab5-248a-4990-899e-547ba918ad4c.jpg)
+
+
+![tajmahel](https://user-images.githubusercontent.com/99875657/185546365-81775fca-1dfd-4b49-bc79-6fdf57e268a4.jpg)
 
 
